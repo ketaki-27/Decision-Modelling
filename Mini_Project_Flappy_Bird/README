@@ -1,1 +1,9 @@
-Flappy Bird Mini Project with code along with the project report.
+<b><h1>Flappy Bird</h1><b>
+
+<p>This project is a clone of the popular Flappy Bird game, developed using Python and the Pygame library. 
+The aim of the project is to recreate the game's mechanics and provide a challenging yet rewarding gameplay experience.
+</p>
+
+<b><h1>Code Structure</h1><b>
+game.py: The main game script that contains the game loop, event handling, and game logic.
+assets/: Directory containing the images and other assets used in the game.
