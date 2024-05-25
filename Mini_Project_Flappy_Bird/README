@@ -1,4 +1,4 @@
-<b><h1>Flappy Bird</h1><b>
+#Flappy Bird
 
 <p>This project is a clone of the popular Flappy Bird game, developed using Python and the Pygame library. 
 The aim of the project is to recreate the game's mechanics and provide a challenging yet rewarding gameplay experience.
