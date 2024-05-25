@@ -6,9 +6,9 @@
 
 # <h1> Code Structure</h1>
 <p>
-game.py: The main game script that contains the game loop, event handling, and game logic.
+game.py: The main game script that contains the game loop, event handling, and game logic.<br>
 assets/: Directory containing the images and other assets used in the game.
-</p><br>
+</p>
 
 # <h1> How to play the game</h1>
 Press enter key to start the game<br>
