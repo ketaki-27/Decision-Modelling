@@ -8,9 +8,9 @@
 <p>
 game.py: The main game script that contains the game loop, event handling, and game logic.
 assets/: Directory containing the images and other assets used in the game.
-</p>
+</p><br>
 
 # <h1> How to play the game</h1>
-Press enter key to start the game
+Press enter key to start the game<br>
 Press space to jump or control the bird
 
